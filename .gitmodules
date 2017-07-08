@@ -1,0 +1,4 @@
+[submodule "extras/casinocoin-libpp"]
+	path = extras/casinocoin-libpp
+	url = https://github.com/casinocoin/casinocoin-libpp.git
+	branch = master
